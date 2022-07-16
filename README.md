@@ -1,6 +1,10 @@
 # cats_gallery
 
-A new Flutter project.
+This is a flutter application made as a practice of my tiny abilities on mobile development with dart and flutter
+
+For install all the dependencies:
+
+`flutter pub get`
 
 ## Getting Started
 
